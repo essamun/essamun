@@ -2,7 +2,7 @@
 
 I help businesses turn raw data into insight — building custom dashboards, machine learning models, and automated data pipelines that solve real-world problems fast.
 
-With 20+ years of experience delivering enterprise solutions for clients like CIBC, IBM, and Markel Canada, I bring a rare blend of deep technical skill, business understanding, and end-to-end execution — from raw datasets to live apps and dashboards.
+With 20+ years of experience delivering enterprise solutions for clients like CIBC, IBM, and Markel Canada, I bring a rare blend of deep technical skill, business understanding, and end-to-end execution — from raw datasets to live production apps and dashboards.
 
 ---
 
@@ -12,7 +12,7 @@ With 20+ years of experience delivering enterprise solutions for clients like CI
 - 🧠 ML Models: Churn Prediction · Forecasting · Regression · Classification
 - ⚙️ ETL Automation with Airflow + SQL
 - 🗺️ Geospatial Analytics & ML — GeoPandas, geospatial feature engineering, mapping, and spatial modeling for real-world data applications
-- 🖥️ Hosting Client Dashboards on my own Windows Server 2022
+- 🖥️ Hosting dashboards and apps on my own Windows Server 2022
 
 ---
 
@@ -32,13 +32,13 @@ End-to-end regression project with advanced data cleaning, feature engineering, 
 
 ### 📈 Telco Churn Classification  
 🔗 [GitHub](https://github.com/essamun/telecom_churn_model)  
-Binary classification model using logistic regression, EDA, model tuning, and performance metrics.
+Binary classification model using logistic regression, exploratory data analysis (EDA), feature selection, and performance evaluation.
 
 ---
 
 ### ⚙️ Airflow Retail ETL DAGs  
 🔗 [GitHub](https://github.com/essamun/airflow_etl_template)  
-Reusable Airflow DAGs simulating real-world ETL pipelines for retail and marketing analytics.
+Reusable Airflow DAGs simulating real-world ETL pipelines for retail and marketing data automation.
 
 ---
 
@@ -51,10 +51,10 @@ Reusable Airflow DAGs simulating real-world ETL pipelines for retail and marketi
 
 ## 🧠 Background
 
-- 🎓 Master’s in Geomatics (AI-based crop classification using IR imagery, 1998)
+- 🎓 Master’s in Geomatics (AI-based crop classification using infrared imagery)
 - ✅ PMP-Certified Project Manager
 - 🏢 Former software architect at CIBC, IBM, and Markel Canada
-- 🛠️ .NET, SQL, GIS expert with deep experience in enterprise platforms
+- 🛠️ Deep expertise in .NET, SQL, GIS, and enterprise systems
 - 🌍 Fluent in English & Arabic · French (working proficiency)
 - 🇨🇦 Canadian citizen | Open to freelance, contract, or remote roles
 
