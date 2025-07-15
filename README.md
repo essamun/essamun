@@ -43,9 +43,9 @@ Reusable Airflow DAGs simulating real-world ETL pipelines for retail and marketi
 ---
 
 ### 📊 BI Dashboards  
+- **Looker Studio:** [Live Report](https://lookerstudio.google.com/u/0/reporting/f16be1e0-4668-4a6d-a952-6a0e2f1704da/page/IBnQF)
 - **Power BI:** [GitHub](https://github.com/essamun/eCommerce-PowerBI-Dashboard)  
 - **Tableau:** [Live Demo](https://public.tableau.com/app/profile/essam.afifi/viz/E-CommerceAnalyticsDashboard50K/E-CommerceOverview?publish=yes)  
-- **Looker Studio:** [Live Report](https://lookerstudio.google.com/u/0/reporting/f16be1e0-4668-4a6d-a952-6a0e2f1704da/page/IBnQF)
 
 ---
 
