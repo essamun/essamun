@@ -1,69 +1,79 @@
-# 👋 Hi, I'm Essam — Canadian ML & Data Consultant
+👋 Hi, I'm Essam — Digital Transformation & AI Consultant
+I help Oil & Gas, Financial Services, and Government organizations turn data into executive insights, predictive intelligence, and actionable training programs.
 
-I help businesses turn raw data into insight — building custom dashboards, machine learning models, and automated data pipelines that solve real-world problems fast.
+With 20+ years of international experience across Canada and MENA, I specialize in AI-enabled decision support, GIS-based risk platforms, Power BI dashboards, and corporate capability building—delivered for clients like NOC Libya, CIBC, IBM, and Markel Canada.
 
-With 20+ years of experience delivering enterprise solutions for clients like CIBC, IBM, and Markel Canada, I bring a rare blend of deep technical skill, business understanding, and end-to-end execution — from raw datasets to live production apps and dashboards.
+🛢️ Flagship Project: AI-Driven Oil Pipeline Leak Detection & Risk Prediction Platform
+About:
+AI-driven Oil Pipeline Leak Detection & Risk Prediction platform combining GIS spatial intelligence, operational dashboards, and machine learning. Designed to support pipeline integrity management, environmental protection, and predictive decision-making for Oil & Gas organizations.
 
----
+Features:
 
-## 🚀 What I Do
+Predictive leakage risk zoning & early warning
 
-- 🔍 Data Analytics & BI Dashboards (Streamlit · Power BI · Tableau · Looker Studio)
-- 🧠 ML Models: Churn Prediction · Forecasting · Regression · Classification
-- ⚙️ ETL Automation with Airflow + SQL
-- 🗺️ Geospatial Analytics & ML — GeoPandas, geospatial feature engineering, mapping, and spatial modeling for real-world data applications
-- 🖥️ Hosting dashboards and apps on my own Windows Server 2022
+GIS-integrated environmental impact visualization
 
----
+Executive dashboards for non-technical leadership
 
-## 📌 Live Projects & Demos
+Built with Python, GeoPandas, Scikit-learn, Power BI, and FastAPI
 
-### 🛒 E-Commerce Intelligence Dashboard  
-🔗 [GitHub](https://github.com/essamun/Ecom-Dashboard-Analytics) · 🌐 [Live Streamlit App](https://ecom-dashboard-analytics-4rgfidzx3p9dhpbgrexhpv.streamlit.app)  
-Interactive dashboard built on 1M+ rows of real e-commerce transactions — includes dynamic KPIs, filters, category insights, geospatial heatmaps, and CSV export. Built with Pandas, Plotly, and GeoPandas.
+Status: In development — ~50% complete | Case study and demo forthcoming.
 
----
+🚀 What I Deliver
+🛢️ Oil & Gas Digitalization – AI, GIS, and BI integration for operational and environmental risk management
 
-### 📍 Starbucks Sales Prediction + Geo Map  
-🔗 [GitHub](https://github.com/essamun/ai-starbucks-sales-prediction-map)  
-End-to-end regression project with advanced data cleaning, feature engineering, and Folium-based geospatial visualization to forecast and map store sales.
+📊 Executive Dashboards & KPI Intelligence – Power BI, Tableau, and custom analytics platforms
 
----
+🧠 AI/ML for Business – Predictive models, anomaly detection, forecasting, and churn analysis
 
-### 📈 Telco Churn Classification  
-🔗 [GitHub](https://github.com/essamun/telecom_churn_model)  
-Binary classification model using logistic regression, exploratory data analysis (EDA), feature selection, and performance evaluation.
+🗺️ Geospatial & Environmental Analytics – GIS mapping, remote sensing, and spatial decision support
 
----
+🏗️ End-to-End Data Platforms – ETL automation, data governance, and scalable architecture
 
-### ⚙️ Airflow Retail ETL DAGs  
-🔗 [GitHub](https://github.com/essamun/airflow_etl_template)  
-Reusable Airflow DAGs simulating real-world ETL pipelines for retail and marketing data automation.
+👨‍🏫 Corporate Training & Advisory – Workshops in digital transformation, AI adoption, and data literacy
 
----
+📌 Featured Projects & Demos
+🌍 Advanced GIS Web Apps
+🔗 Frontend · Backend · Geodatabase
+Full-stack geospatial platforms with interactive mapping, spatial analysis, and PostgreSQL/PostGIS.
 
-### 📊 BI Dashboards  
-- **Looker Studio:** [Live Report](https://lookerstudio.google.com/u/0/reporting/f16be1e0-4668-4a6d-a952-6a0e2f1704da/page/IBnQF)
-- **Power BI:** [GitHub](https://github.com/essamun/eCommerce-PowerBI-Dashboard)  
-- **Tableau:** [Live Demo](https://public.tableau.com/app/profile/essam.afifi/viz/E-CommerceAnalyticsDashboard50K/E-CommerceOverview?publish=yes)  
+📈 E-Commerce Intelligence Dashboard
+🔗 GitHub · 🌐 Live Demo
+Interactive analytics on 1M+ transactions with KPIs, filters, heatmaps, and exports.
 
----
+📉 Telecom Churn Prediction
+🔗 GitHub
+End-to-end classification model with EDA, feature engineering, and performance evaluation.
 
-## 🧠 Background
+⚙️ Airflow ETL Templates
+🔗 GitHub
+Reusable data pipelines for retail and marketing automation.
 
-- 🎓 Master’s in Geomatics (AI-based crop classification using infrared imagery)
-- ✅ PMP-Certified Project Manager
-- 🏢 Former software architect at CIBC, IBM, and Markel Canada
-- 🛠️ Deep expertise in .NET, SQL, GIS, and enterprise systems
-- 🌍 Fluent in English & Arabic · French (working proficiency)
-- 🇨🇦 Canadian citizen | Open to freelance, contract, or remote roles
+📊 BI & Executive Dashboards
+Looker Studio: Live Report
 
----
+Power BI: GitHub
 
-## 🤝 Let’s Connect
+Tableau: Live Dashboard
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/essam-afifi)  
-- 🌐 [GitHub](https://github.com/essamun)  
-- 📧 Email: esstoronto@gmail.com
+🧠 Background
+🎓 Master’s in Engineering (GIS & Remote Sensing)
 
-💼 Available for **freelance ML / analytics / dashboard work**. Let’s build something powerful together.
+✅ PMP-Certified Project Manager
+
+🏢 Former roles at CIBC, IBM, and Markel Canada in architecture, PMO, and GIS consulting
+
+🌍 Trilingual (English, Arabic, French)
+
+🇨🇦 Canadian–Egyptian | Open to GCC & MENA engagements
+
+🤝 Let’s Connect
+I’m available for consulting, corporate training, and digital transformation projects in Oil & Gas and related sectors.
+
+🔗 LinkedIn
+
+📧 esstoronto@gmail.com
+
+📞 +20 114 012 2106
+
+Open to advisory, training, and strategic platform development roles.
