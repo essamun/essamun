@@ -33,6 +33,10 @@ Status: In development — ~50% complete | Case study and demo forthcoming.
 👨‍🏫 Corporate Training & Advisory – Workshops in digital transformation, AI adoption, and data literacy
 
 📌 Featured Projects & Demos
+🛢️ AI-Driven Oil Pipeline Leak Detection & Risk Prediction Platform
+🔗 GitHub Repository
+AI + GIS + BI platform for predictive pipeline integrity and environmental risk management in Oil & Gas.
+
 🌍 Advanced GIS Web Apps
 🔗 Frontend · Backend · Geodatabase
 Full-stack geospatial platforms with interactive mapping, spatial analysis, and PostgreSQL/PostGIS.
