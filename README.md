@@ -1,83 +1,88 @@
-👋 Hi, I'm Essam — Digital Transformation & AI Consultant
-I help Oil & Gas, Financial Services, and Government organizations turn data into executive insights, predictive intelligence, and actionable training programs.
+# Essam Afifi, PMP, MSc
 
-With 20+ years of international experience across Canada and MENA, I specialize in AI-enabled decision support, GIS-based risk platforms, Power BI dashboards, and corporate capability building—delivered for clients like NOC Libya, CIBC, IBM, and Markel Canada.
+**PMO | Portfolio Reporting | Project Controls | Business Intelligence Consultant**
 
-🛢️ Flagship Project: AI-Driven Oil Pipeline Leak Detection & Risk Prediction Platform
-About:
-AI-driven Oil Pipeline Leak Detection & Risk Prediction platform combining GIS spatial intelligence, operational dashboards, and machine learning. Designed to support pipeline integrity management, environmental protection, and predictive decision-making for Oil & Gas organizations.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://www.linkedin.com/in/essam-afifi/)
+[![GitHub](https://img.shields.io/badge/GitHub-PMO%20Portfolio-181717?logo=github)](https://github.com/Essam-Afifi)
+[![PMP](https://img.shields.io/badge/PMP-Certified-0056b3?logo=projectmanagementinstitute)](https://www.pmi.org)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Executive%20Dashboards-F2C811?logo=powerbi)](https://powerbi.microsoft.com)
 
-Features:
+---
 
-Predictive leakage risk zoning & early warning
+## What I Do
 
-GIS-integrated environmental impact visualization
+Senior PMO professional with **20+ years** across Canadian financial services, insurance, and energy. I build portfolio governance, executive reporting, and project controls that help leadership make better decisions — faster.
 
-Executive dashboards for non-technical leadership
+**Currently available** for PMO, portfolio reporting, or project controls roles in the Greater Toronto Area (remote/hybrid).
 
-Built with Python, GeoPandas, Scikit-learn, Power BI, and FastAPI
+---
 
-Status: In development — ~50% complete | Case study and demo forthcoming.
+## Featured Project: PMO Controls Lab
 
-🚀 What I Deliver
-🛢️ Oil & Gas Digitalization – AI, GIS, and BI integration for operational and environmental risk management
+> **Live portfolio governance environment** — 10 projects, stage gates, EVM tracker, Power BI dashboard, capacity planning.
 
-📊 Executive Dashboards & KPI Intelligence – Power BI, Tableau, and custom analytics platforms
+[![PMO Controls Lab](https://img.shields.io/badge/📊-PMO%20Controls%20Lab-0056b3)](https://github.com/Essam-Afifi/pmo-controls-lab)
 
-🧠 AI/ML for Business – Predictive models, anomaly detection, forecasting, and churn analysis
+This is my **primary portfolio artifact** — a self-contained PMO environment that demonstrates exactly what I do:
 
-🗺️ Geospatial & Environmental Analytics – GIS mapping, remote sensing, and spatial decision support
+- Intake governance & prioritization scoring
+- EVM tracker with SPI, CPI, RAG automation
+- Power BI executive dashboard (4 pages)
+- Resource capacity model (142% Solution Architect overload identified)
+- Escalation log & SteerCo decision tracking
+- Power Automate reporting workflows
 
-🏗️ End-to-End Data Platforms – ETL automation, data governance, and scalable architecture
+👉 **[View the full PMO Controls Lab →](https://github.com/Essam-Afifi/pmo-controls-lab)**
 
-👨‍🏫 Corporate Training & Advisory – Workshops in digital transformation, AI adoption, and data literacy
+---
 
-📌 Featured Projects & Demos
-🛢️ AI-Driven Oil Pipeline Leak Detection & Risk Prediction Platform
-🔗 GitHub Repository
-AI + GIS + BI platform for predictive pipeline integrity and environmental risk management in Oil & Gas.
+## Core Capabilities
 
-🌍 Advanced GIS Web Apps
-🔗 Frontend · Backend · Geodatabase
-Full-stack geospatial platforms with interactive mapping, spatial analysis, and PostgreSQL/PostGIS.
+| Area | What I Deliver |
+|---|---|
+| **Portfolio Reporting** | Executive dashboards (Power BI), RAG trends, delivery confidence, RAID oversight |
+| **Project Controls** | EVM (SPI, CPI, EAC), schedule/cost variance, automated thresholds |
+| **Governance** | Stage-gate, intake prioritization, business case review, SteerCo packs |
+| **Resource Planning** | Capacity vs demand, role-based utilization, constraint identification |
+| **Automation** | Power Automate workflows, Excel VBA, SharePoint reporting portals |
 
-📈 E-Commerce Intelligence Dashboard
-🔗 GitHub · 🌐 Live Demo
-Interactive analytics on 1M+ transactions with KPIs, filters, heatmaps, and exports.
+---
 
-📉 Telecom Churn Prediction
-🔗 GitHub
-End-to-end classification model with EDA, feature engineering, and performance evaluation.
+## Tools & Technology
 
-⚙️ Airflow ETL Templates
-🔗 GitHub
-Reusable data pipelines for retail and marketing automation.
+Power BI (DAX, data models) | Excel (EVM, VBA, macros, pivot)
+Jira / Confluence / ADO | MS Project / Project Online
+SharePoint / Power Automate | Smartsheet / SOW tracking
+Python (automation) | ServiceNow PPM / Clarity PPM
+Tableau / Looker Studio | SQL Server
 
-📊 BI & Executive Dashboards
-Looker Studio: Live Report
 
-Power BI: GitHub
+---
 
-Tableau: Live Dashboard
+## Experience Highlights
 
-🧠 Background
-🎓 Master’s in Engineering (GIS & Remote Sensing)
+| Role | Company | Key Accomplishment |
+|---|---|---|
+| Senior PMO Consultant | National Oil Corporation (Libya) | Built portfolio controls for 15+ projects, reduced exec reporting effort ~40% |
+| IT Architect & Governance Lead | Markel Insurance (Toronto) | PMO interface between Toronto and UK leadership for 8-12 concurrent initiatives |
+| Project Manager - Enterprise PMO | CIBC (Toronto) | Reported weekly on $20M+ Telephone Banking portfolio; two Individual Achievement Awards |
 
-✅ PMP-Certified Project Manager
+> **Full resume available upon request**
 
-🏢 Former roles at CIBC, IBM, and Markel Canada in architecture, PMO, and GIS consulting
+---
 
-🌍 Trilingual (English, Arabic, French)
+## Certifications & Education
 
-🇨🇦 Canadian–Egyptian | Open to GCC & MENA engagements
+- **PMP** — Project Management Institute
+- **Advanced Diploma in Project Management** — Learning Tree International
+- **MSc, Geomatics** — Cairo University
 
-🤝 Let’s Connect
-I’m available for consulting, corporate training, and digital transformation projects in Oil & Gas and related sectors.
+---
 
-🔗 LinkedIn
+## Let's Connect
 
-📧 esstoronto@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Essam%20Afifi-0077B5?logo=linkedin)](https://www.linkedin.com/in/essam-afifi/)
+[![Email](https://img.shields.io/badge/Email-esstoronto%40gmail.com-D14836?logo=gmail)](mailto:esstoronto@gmail.com)
 
-📞 +20 114 012 2106
+*Based in Toronto, ON — open to remote/hybrid across Canada*
 
-Open to advisory, training, and strategic platform development roles.
